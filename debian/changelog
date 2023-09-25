@@ -1,3 +1,9 @@
+ca-certificates-infonotary (20210714) unstable; urgency=medium
+
+  * Bump version for consistency
+
+ -- Vladimir Vitkov <vvitkov@gmail.com>  Wed, 14 Jul 2021 17:44:43 +0300
+
 ca-certificates-infonotary (20180108) unstable; urgency=medium
 
   * Initial Release.
