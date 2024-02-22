@@ -1,3 +1,9 @@
+ca-certificates-infonotary (20240222) unstable; urgency=medium
+
+  * update build tooling 
+
+ -- Vladimir Vitkov <vvitkov@gmail.com>  Thu, 22 Feb 2024 14:26:13 +0200
+
 ca-certificates-infonotary (20210714) unstable; urgency=medium
 
   * Bump version for consistency
