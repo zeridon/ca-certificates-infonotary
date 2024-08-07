@@ -1,3 +1,9 @@
+ca-certificates-infonotary (20240807) unstable; urgency=medium
+
+  * Add triggers file to auto refresh certs
+
+ -- Vladimir Vitkov <vvitkov@gmail.com>  Wed, 07 Aug 2024 10:30:56 +0300
+
 ca-certificates-infonotary (20240222) unstable; urgency=medium
 
   * update build tooling 
