@@ -1,3 +1,9 @@
+ca-certificates-infonotary (20251205) unstable; urgency=medium
+
+  * Add new G3 intermediates
+
+ -- Vladimir Vitkov <vvitkov@gmail.com>  Fri, 05 Dec 2025 11:17:25 +0200
+
 ca-certificates-infonotary (20240807) unstable; urgency=medium
 
   * Add triggers file to auto refresh certs

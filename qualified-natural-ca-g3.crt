@@ -1,0 +1,146 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            2c:ef:ba:3f:aa:3c:91:39:80:75:92:bb:1f:fd:82:e0
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: DC = qualified-root-ca, CN = InfoNotary TSP Root, C = BG, L = Sofia, O = InfoNotary PLC, OU = Qualified TSP, organizationIdentifier = NTRBG-131276827
+        Validity
+            Not Before: Sep 11 16:00:00 2025 GMT
+            Not After : Jun 29 20:59:59 2036 GMT
+        Subject: CN = InfoNotary Qualified Personal Sign CA G3, OU = Qualified TSP, organizationIdentifier = NTRBG-131276827, O = InfoNotary PLC, L = Sofia, DC = qualified-natural-ca-g3, C = BG
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (4096 bit)
+                Modulus:
+                    00:8e:23:af:e7:81:06:e7:1a:da:3a:e2:51:79:59:
+                    05:c0:f9:28:d2:c4:45:c9:15:35:7d:5c:cc:77:11:
+                    38:77:99:cb:db:d3:df:01:ed:d0:a0:ce:a9:5f:18:
+                    eb:9e:10:80:1a:62:13:89:21:07:13:00:a1:5d:c8:
+                    a4:cf:82:df:cf:71:5c:7b:c6:15:e1:bb:c4:71:ed:
+                    4e:b8:d0:2d:d4:bc:c8:0e:b4:53:4d:47:1b:17:23:
+                    8a:4a:f2:8d:06:ce:01:9c:a0:72:f0:c1:ae:de:3f:
+                    20:f0:e0:f4:f3:7c:0b:ef:9d:a5:9f:31:f3:7c:26:
+                    75:4d:4e:74:30:d1:62:1f:64:1d:99:68:8f:ce:ae:
+                    a9:5a:f0:9d:67:01:93:14:8f:2e:92:c7:9a:bf:2f:
+                    82:41:19:b5:62:a3:f2:cf:4f:9d:91:06:e1:7d:e0:
+                    b8:dc:4f:1a:f2:e2:0c:84:4f:c8:10:81:61:26:0b:
+                    4a:26:ae:fb:f1:dc:5a:3f:ee:ae:b0:e1:0c:c7:de:
+                    85:17:f8:89:23:1b:84:81:f3:91:d1:93:cc:50:c3:
+                    1b:40:10:f3:a2:00:28:3a:32:b2:85:0f:66:aa:fc:
+                    a0:10:bf:52:f6:87:9e:0c:a6:e7:27:0b:1b:b6:bb:
+                    e1:2e:95:74:79:76:e7:3e:96:63:68:42:af:55:d5:
+                    fb:68:01:7b:da:8d:25:65:14:04:03:27:ff:2c:28:
+                    70:a6:54:a9:55:1a:57:a1:67:59:35:b7:3b:6d:70:
+                    17:f8:bf:73:c1:8e:53:19:09:90:aa:31:79:f9:c1:
+                    ba:b1:85:cf:47:92:76:59:6e:9c:12:d2:92:ac:dc:
+                    7f:51:d3:04:44:f8:70:9c:cd:91:b5:ce:ea:40:c6:
+                    99:43:98:2f:45:90:24:c4:ae:0f:c3:61:85:63:ce:
+                    68:54:78:cf:67:7c:d0:b0:3a:ff:aa:26:0f:27:0e:
+                    96:b2:6b:54:9b:29:9a:ca:d5:c2:e0:77:5e:f9:9d:
+                    ab:e6:ae:ca:a4:a9:40:f7:70:50:ad:44:59:95:5b:
+                    03:1b:b6:17:2e:e5:00:0a:ec:fb:86:fd:a5:db:f1:
+                    57:35:0b:cc:82:10:10:8b:0e:1d:3a:b0:b2:ac:0d:
+                    68:08:32:9a:40:e1:19:7c:3c:01:49:60:f8:b3:ea:
+                    9a:60:ec:50:53:1c:75:31:c5:91:8e:86:d2:83:79:
+                    4b:75:81:71:f0:01:e9:38:16:d1:a1:2d:49:28:79:
+                    1e:6e:6f:e0:a1:aa:0d:76:51:77:5d:75:aa:80:8b:
+                    37:60:08:93:77:61:b7:2a:36:f7:93:b9:c7:98:c1:
+                    81:3e:f8:1a:fb:d4:fc:08:8e:a0:68:8a:7f:7b:06:
+                    85:a6:43
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Authority Key Identifier: 
+                AD:E1:9F:39:80:70:D9:68:0A:CB:C6:71:0D:46:D8:83:A9:12:94:5D
+            Authority Information Access: 
+                CA Issuers - URI:https://repository.infonotary.com/qualified-root-ca.crt
+                OCSP - URI:http://ocsp.infonotary.com/qualified
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.22144.3.1
+                  User Notice:
+                    Explicit Text: InfoNotary Qualified Personal Sign CA
+                  CPS: http://repository.infonotary.com/cps/qualified-tsp.html
+            X509v3 CRL Distribution Points: 
+                Full Name:
+                  URI:http://crl.infonotary.com/crl/qualified-root-ca.crl
+            X509v3 Subject Key Identifier: 
+                F2:BF:D2:FE:CC:CF:B8:F5:8D:3F:B9:F0:D2:AB:76:C3:CA:40:FD:42
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        6e:96:21:c2:44:0b:13:2b:70:e9:4d:50:9a:70:02:83:d8:b0:
+        4f:17:41:92:6c:c5:24:6f:a1:c3:88:68:2d:05:1e:45:a9:0c:
+        89:d4:05:0c:8a:ef:30:f6:34:d3:15:9a:d3:4c:52:1b:b4:96:
+        7b:ad:56:49:f6:28:07:db:5a:2e:74:aa:3b:a1:a5:16:be:75:
+        e6:3a:96:13:1a:3f:d6:02:e8:a5:87:f9:58:3b:dc:80:39:29:
+        e0:12:86:4b:13:46:94:98:4d:30:60:92:99:c9:58:53:a3:11:
+        c1:4e:b6:76:6c:28:79:a7:de:c7:c1:33:70:90:7f:01:76:a4:
+        aa:c7:38:6c:79:20:83:89:c2:ad:d5:78:53:8f:02:07:0e:d9:
+        e5:b4:68:08:6f:67:84:13:20:80:91:d1:98:93:ee:b9:7e:bd:
+        55:fb:3a:2b:65:89:a3:95:91:09:9f:e6:85:b2:e0:e0:55:cf:
+        e3:93:34:80:66:ff:d7:08:02:8b:13:ee:bf:7b:ae:04:93:8b:
+        6f:2a:56:77:b2:09:bb:72:73:8c:48:e1:2a:27:12:c7:13:00:
+        86:07:dc:a1:f1:58:aa:e5:23:f3:19:3a:f6:d0:72:95:2a:94:
+        b3:53:77:23:80:25:f5:c9:ec:bb:1d:4f:bc:bc:8f:f5:ae:dd:
+        85:64:44:c8:b6:b1:ad:8b:93:68:30:1f:62:bf:79:5b:03:b3:
+        b1:47:c5:41:b7:da:39:14:53:8f:00:72:75:8b:c2:a9:c3:ae:
+        7c:d3:7c:53:04:6b:09:e7:4d:fd:9f:c3:65:af:fb:d4:40:d5:
+        4c:ce:64:af:c1:06:a5:0b:20:67:2e:64:14:f3:6d:e6:14:fa:
+        16:07:2a:86:b6:4c:8f:5c:29:f9:e0:66:4c:c1:74:61:b5:35:
+        ce:5f:61:a9:67:a6:5e:cd:d2:f1:6e:19:83:64:d7:b8:90:cf:
+        c4:0e:2c:87:ee:66:eb:58:49:93:e9:c7:05:91:27:11:dd:bc:
+        75:8d:01:a1:ba:81:16:50:b4:f8:1c:e6:99:17:34:35:51:37:
+        74:ce:a2:ff:16:d7:43:11:fa:8e:22:04:86:c0:ff:e7:6b:7b:
+        c8:16:5e:f1:74:eb:c7:4c:6e:28:21:f9:1b:e9:19:ea:4e:db:
+        f1:52:8e:4b:c8:42:68:aa:7d:b3:b8:0b:bb:c0:f9:74:05:30:
+        8d:50:2d:bb:e8:5a:26:e4:38:1c:70:cb:16:b6:14:34:b2:7a:
+        21:c8:5b:34:d0:4c:04:66:0c:40:af:5f:c9:ed:08:8c:fa:00:
+        a9:24:7b:92:66:fc:e3:5d:88:e2:5f:2d:6c:e4:4d:20:96:bd:
+        45:22:2f:47:9f:08:a2:25
+-----BEGIN CERTIFICATE-----
+MIIHxzCCBa+gAwIBAgIQLO+6P6o8kTmAdZK7H/2C4DANBgkqhkiG9w0BAQsFADCB
+qTEhMB8GCgmSJomT8ixkARkWEXF1YWxpZmllZC1yb290LWNhMRwwGgYDVQQDDBNJ
+bmZvTm90YXJ5IFRTUCBSb290MQswCQYDVQQGDAJCRzEOMAwGA1UEBwwFU29maWEx
+FzAVBgNVBAoMDkluZm9Ob3RhcnkgUExDMRYwFAYDVQQLDA1RdWFsaWZpZWQgVFNQ
+MRgwFgYDVQRhDA9OVFJCRy0xMzEyNzY4MjcwHhcNMjUwOTExMTYwMDAwWhcNMzYw
+NjI5MjA1OTU5WjCBxDExMC8GA1UEAwwoSW5mb05vdGFyeSBRdWFsaWZpZWQgUGVy
+c29uYWwgU2lnbiBDQSBHMzEWMBQGA1UECwwNUXVhbGlmaWVkIFRTUDEYMBYGA1UE
+YQwPTlRSQkctMTMxMjc2ODI3MRcwFQYDVQQKDA5JbmZvTm90YXJ5IFBMQzEOMAwG
+A1UEBwwFU29maWExJzAlBgoJkiaJk/IsZAEZFhdxdWFsaWZpZWQtbmF0dXJhbC1j
+YS1nMzELMAkGA1UEBhMCQkcwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoIC
+AQCOI6/ngQbnGto64lF5WQXA+SjSxEXJFTV9XMx3ETh3mcvb098B7dCgzqlfGOue
+EIAaYhOJIQcTAKFdyKTPgt/PcVx7xhXhu8Rx7U640C3UvMgOtFNNRxsXI4pK8o0G
+zgGcoHLwwa7ePyDw4PTzfAvvnaWfMfN8JnVNTnQw0WIfZB2ZaI/Orqla8J1nAZMU
+jy6Sx5q/L4JBGbVio/LPT52RBuF94LjcTxry4gyET8gQgWEmC0omrvvx3Fo/7q6w
+4QzH3oUX+IkjG4SB85HRk8xQwxtAEPOiACg6MrKFD2aq/KAQv1L2h54MpucnCxu2
+u+EulXR5duc+lmNoQq9V1ftoAXvajSVlFAQDJ/8sKHCmVKlVGlehZ1k1tzttcBf4
+v3PBjlMZCZCqMXn5wbqxhc9HknZZbpwS0pKs3H9R0wRE+HCczZG1zupAxplDmC9F
+kCTErg/DYYVjzmhUeM9nfNCwOv+qJg8nDpaya1SbKZrK1cLgd175navmrsqkqUD3
+cFCtRFmVWwMbthcu5QAK7PuG/aXb8Vc1C8yCEBCLDh06sLKsDWgIMppA4Rl8PAFJ
+YPiz6ppg7FBTHHUxxZGOhtKDeUt1gXHwAek4FtGhLUkoeR5ub+Chqg12UXdddaqA
+izdgCJN3YbcqNveTuceYwYE++Br71PwIjqBoin97BoWmQwIDAQABo4IBzDCCAcgw
+DwYDVR0TAQH/BAUwAwEB/zAfBgNVHSMEGDAWgBSt4Z85gHDZaArLxnENRtiDqRKU
+XTCBhQYIKwYBBQUHAQEEeTB3MEMGCCsGAQUFBzAChjdodHRwczovL3JlcG9zaXRv
+cnkuaW5mb25vdGFyeS5jb20vcXVhbGlmaWVkLXJvb3QtY2EuY3J0MDAGCCsGAQUF
+BzABhiRodHRwOi8vb2NzcC5pbmZvbm90YXJ5LmNvbS9xdWFsaWZpZWQwgZYGA1Ud
+IASBjjCBizCBiAYKKwYBBAGBrQADATB6MDMGCCsGAQUFBwICMCcMJUluZm9Ob3Rh
+cnkgUXVhbGlmaWVkIFBlcnNvbmFsIFNpZ24gQ0EwQwYIKwYBBQUHAgEWN2h0dHA6
+Ly9yZXBvc2l0b3J5LmluZm9ub3RhcnkuY29tL2Nwcy9xdWFsaWZpZWQtdHNwLmh0
+bWwwRAYDVR0fBD0wOzA5oDegNYYzaHR0cDovL2NybC5pbmZvbm90YXJ5LmNvbS9j
+cmwvcXVhbGlmaWVkLXJvb3QtY2EuY3JsMB0GA1UdDgQWBBTyv9L+zM+49Y0/ufDS
+q3bDykD9QjAOBgNVHQ8BAf8EBAMCAQYwDQYJKoZIhvcNAQELBQADggIBAG6WIcJE
+CxMrcOlNUJpwAoPYsE8XQZJsxSRvocOIaC0FHkWpDInUBQyK7zD2NNMVmtNMUhu0
+lnutVkn2KAfbWi50qjuhpRa+deY6lhMaP9YC6KWH+Vg73IA5KeAShksTRpSYTTBg
+kpnJWFOjEcFOtnZsKHmn3sfBM3CQfwF2pKrHOGx5IIOJwq3VeFOPAgcO2eW0aAhv
+Z4QTIICR0ZiT7rl+vVX7OitliaOVkQmf5oWy4OBVz+OTNIBm/9cIAosT7r97rgST
+i28qVneyCbtyc4xI4SonEscTAIYH3KHxWKrlI/MZOvbQcpUqlLNTdyOAJfXJ7Lsd
+T7y8j/Wu3YVkRMi2sa2Lk2gwH2K/eVsDs7FHxUG32jkUU48AcnWLwqnDrnzTfFME
+awnnTf2fw2Wv+9RA1UzOZK/BBqULIGcuZBTzbeYU+hYHKoa2TI9cKfngZkzBdGG1
+Nc5fYalnpl7N0vFuGYNk17iQz8QOLIfuZutYSZPpxwWRJxHdvHWNAaG6gRZQtPgc
+5pkXNDVRN3TOov8W10MR+o4iBIbA/+dre8gWXvF068dMbigh+RvpGepO2/FSjkvI
+QmiqfbO4C7vA+XQFMI1QLbvoWibkOBxwyxa2FDSyeiHIWzTQTARmDECvX8ntCIz6
+AKkke5Jm/ONdiOJfLWzkTSCWvUUiL0efCKIl
+-----END CERTIFICATE-----
